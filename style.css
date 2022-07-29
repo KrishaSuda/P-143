@@ -1,0 +1,52 @@
+.heading{
+    text-align: left;
+    font-size: 22.5px;
+    width: 100%;
+}
+
+.heading h3{
+    display: inline;
+}
+
+.heading button{
+    float: right;
+}
+
+#start{
+    font-size: 20px;
+}
+
+.restart{
+    font-size: 16px;
+    color: aliceblue;
+    background-color:rgb(55, 140, 215);
+    margin-bottom: 100px;
+}
+
+.restart:hover{
+    color: white;
+    background-color: rgba(38, 63, 152);
+}
+
+.instructions{
+    text-align: left;
+    font-weight: 900px;
+}
+
+.footer     {
+    background-color: #f3f3f3;
+    line-height: 2;
+    margin: 0px;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+canvas{
+    border: 1px solid white ;
+    border-radius: 25px;
+}
